@@ -3,7 +3,7 @@
 ### Command to Run:
 spark-submit --class "purandare_himanshu_clustering" --master local[*] purandare_himanshu_clustering.jar "<Path_To_Iris_data_File>" <k>
 
-args(0): <Path_To_Iris_data_File> \n
+args(0): <Path_To_Iris_data_File> <br>
 args(1): k
 
 ### Example:
